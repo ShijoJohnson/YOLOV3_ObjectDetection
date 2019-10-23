@@ -1,0 +1,1 @@
+(yolov3) C:\Users\shijo\Desktop\YorkUBigData\MyTries\Yolov3Quickstart>python yolo_video.py --image
